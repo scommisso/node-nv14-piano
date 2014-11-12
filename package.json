@@ -1,0 +1,26 @@
+{
+  "name": "nv14-piano",
+  "version": "0.0.1",
+  "description": "Piano for Nodevember 2014 Demo #1",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scommisso/node-nv14-piano.git"
+  },
+  "keywords": [
+    "nodevember",
+    "link",
+    "dedupe"
+  ],
+  "author": "Stephen Commisso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scommisso/node-nv14-piano/issues"
+  },
+  "homepage": "https://github.com/scommisso/node-nv14-piano",
+  "dependencies": {
+    "nv14-click-track": "~0.0.1"
+  }
+}
