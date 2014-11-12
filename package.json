@@ -1,6 +1,6 @@
 {
   "name": "nv14-piano",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Piano for Nodevember 2014 Demo #1",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/scommisso/node-nv14-piano",
   "dependencies": {
-    "nv14-click-track": "~0.0.2"
+    "nv14-click-track": "0.0.1"
   }
 }
