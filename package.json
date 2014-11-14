@@ -1,6 +1,6 @@
 {
   "name": "nv14-piano",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Piano for Nodevember 2014 Demo #1",
   "main": "index.js",
   "scripts": {
